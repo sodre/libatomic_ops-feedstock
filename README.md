@@ -5,7 +5,7 @@ Home: https://github.com/ivmai/libatomic_ops
 
 Package license: Custom
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Implementations for atomic memory update operations.
 
@@ -69,9 +69,10 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/libatomic_ops-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/libatomic_ops-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/libatomic_ops-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/libatomic_ops-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/libatomic_ops-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/libatomic_ops-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/libatomic-ops-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/libatomic-ops-feedstock/branch/master)
 
 Current release info
 ====================
